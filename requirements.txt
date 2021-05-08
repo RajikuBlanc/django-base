@@ -1,3 +1,6 @@
 Django~=3.2.2
 Pillow~=8.2.0
 django-widget-tweaks~=1.4.8
+
+# pip3 install -r requirements.txt
+# pip3 install libsass django-compressor django-sass-processor
